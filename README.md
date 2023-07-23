@@ -23,3 +23,8 @@ Create a PowerPoint presentation which outlines the approach we will be taking t
 
 Module Task 3:
 Please develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard (see tools/references for assistance). Specifically, your presentation should specify who Sprocket Central Pty Ltd' should be targeting out of the new 1000 customer list.
+
+
+Dashboard: 
+
+![KPMG dasboard snapshot](https://github.com/Akash7142/Forage-KPMG-AU-Data-Analytics/assets/131694327/b4050e78-302c-4486-b3ce-e6f70fb6f3fe)
